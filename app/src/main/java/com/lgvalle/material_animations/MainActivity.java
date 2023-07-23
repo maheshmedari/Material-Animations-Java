@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         setupSamples();
         setupToolbar();
         setupLayout();
+
+        System.out.println("########### testing Animation Code");
+        
     }
 
     private void setupWindowAnimations() {
